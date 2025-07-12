@@ -64,7 +64,7 @@ AI_PROJECT/
 
 ## 📊 Usage
 
-1. **Add your dataset:**  
+1. **Add your dataset :**  
    Place `loan_data1.csv` in the project root (not tracked by git).
 
 2. **Run the main script:**
