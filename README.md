@@ -1,4 +1,4 @@
-# Loan Approval Classification with AI
+# Loan Approval Classification with AI::
 
 A machine learning pipeline for predicting loan approval status using both traditional ML models and neural networks.
 
