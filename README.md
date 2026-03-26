@@ -7,7 +7,7 @@ A machine learning pipeline for predicting loan approval status using both tradi
 ## 🚀 Features
 
 - Clean, modular code structure
-- Data preprocessing and feature engineering :
+- Data preprocessing and feature engineering
 - Multiple machine learning models (KNN, Logistic Regression, Decision Tree, Random Forest)
 - Neural network implementation with TensorFlow/Keras
 - Evaluation metrics and reporting
